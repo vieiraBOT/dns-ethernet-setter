@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 
-![Menu Principal do Script](images/script-funcionando.png)
+![Menu Principal](images/script-funcionando.png)
  Tela do menu principal do DNS Ethernet Setter 
 
 > Ferramenta automática para configurar DNS em interfaces Ethernet no Windows com interface intuitiva em português.
