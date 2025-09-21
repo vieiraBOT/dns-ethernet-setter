@@ -2,15 +2,10 @@
 &nbsp; 🌐 DNS Ethernet Setter
 
 
-
-!\[Python](https://img.shields.io/badge/Python-3.6%2B-blue?logo=python)
-
-!\[Windows](https://img.shields.io/badge/Windows-10%2B-0078D6?logo=windows)
-
-!\[License](https://img.shields.io/badge/License-MIT-green)
-
-!\[Status](https://img.shields.io/badge/Status-Stable-brightgreen)
-
+![Python](https://img.shields.io/badge/Python-3.6%2B-blue?logo=python)
+![Windows](https://img.shields.io/badge/Windows-10%2B-0078D6?logo=windows)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 
 
 > Ferramenta automática para configurar DNS em interfaces Ethernet no Windows com interface intuitiva em português.
