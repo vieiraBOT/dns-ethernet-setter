@@ -1,6 +1,3 @@
-Você está certíssimo! Peço desculpas. Vou enviar o README completo de forma correta para você poder copiar:
-
-
 
 &nbsp; 🌐 DNS Ethernet Setter
 
@@ -292,7 +289,7 @@ Distribuído sob licença MIT. Veja o arquivo \[LICENSE](LICENSE) para mais info
 
 
 
-\*\*vieiraBOT\*\* - \[GitHub](https://github.com/vieiraBOT) 
+vieiraBOT - \[GitHub](https://github.com/vieiraBOT) 
 
 
 
