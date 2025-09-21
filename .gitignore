@@ -1,0 +1,158 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.python-version
+
+# 📁 Windows
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# 🏷️ IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-*
+*.code-workspace
+
+# 📊 Logs e arquivos temporários
+*.log
+*.tmp
+*.temp
+*.bak
+*.backup
+*.pid
+*.pid.lock
+
+# 📦 Pacotes e distribuições
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# 🖼️ Imagens e binários
+*.exe
+*.msi
+*.bin
+*.dat
+*.db
+*.img
+*.iso
+*.toast
+*.vcd
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+
+# 🔐 Arquivos sensíveis
+.env
+.venv
+env/
+venv/
+ENV/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.key
+*.pem
+*.crt
+*.cert
+credentials.json
+secrets.ini
+
+# 📝 Documentação gerada
+docs/_build/
+_site/
+.sass-cache/
+
+# 🧪 Testes
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.mo
+*.pot
+
+# 🗄️ Banco de dados
+*.db
+*.sqlite3
+*.sql
+*.mdb
+
+# 🎨 Arquivos de projeto específicos
+.project
+.pydevproject
+.settings/
+.classpath
+
+# 🐛 Debug
+debug.log
+*.pdb
+
+# 📊 Performance
+profile.txt
+*.prof
+
+# 🧹 Arquivos do sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+
+# 🚀 Arquivos de deploy
+deploy.ini
+deploy.sh
+deploy.bat
+
+# 📋 Customizado para o projeto DNS Ethernet Setter
+/config_backups/
+/user_settings.ini
+/last_config.json
+/usage_stats.txt
+
+# 🎯 Ignorar versões compiladas (se futuramente compilar)
+*.pyo
+*.pyd
+
+# 📦 Ignorar diretórios de ambiente virtual (comuns)
+venv/
+ENV/
+env.bak/
+venv.bak/
